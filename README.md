@@ -6,7 +6,7 @@ Fractal Tree For Amstrad CPC
 This is a port of coding train Apple II fractal tree for the Amstrad CPC
 
 ## To try it online
-  - Save the content of [tree.bas](https://github.com/CopperFr/cpc-fractal-tree/blob/main/tree.bas) in a file
+  - Save the content of [tree.bas](https://github.com/CopperFr/cpc-fractal-tree/blob/main/tree.bas) in a file on your computer
   - Go to [crocods](http://crocods.org/web/)
   - Click disk icon on the bottom left
-  -Select file tree.bas previously created
+  - Select file tree.bas previously created on your computer
