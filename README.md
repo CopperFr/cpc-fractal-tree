@@ -1,4 +1,4 @@
-# fractal-tree-amstrad-cpc
+# fractal-tree
 Fractal Tree For Amstrad CPC
 
 This is a port of coding train Apple II fractal tree for the Amstrad CPC
