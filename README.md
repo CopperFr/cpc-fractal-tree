@@ -1,9 +1,11 @@
 # cpc-fractal-tree
 Fractal Tree For Amstrad CPC
 
+<img alt="fractal tree" src="img/tree.png" width = "640">
+
 This is a port of coding train Apple II fractal tree for the Amstrad CPC
 
-To try it online
+To try it online:
 
 Save the content of tree.bas in a file
 
