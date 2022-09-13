@@ -1,8 +1,7 @@
-![tree](https://user-images.githubusercontent.com/15486071/190010152-bacb722a-54cf-4550-b23e-b9eede733645.png)
 # cpc-fractal-tree
 Fractal Tree For Amstrad CPC
 
-<img alt="fractal tree" src="img/tree.png" width = "640">
+![tree](https://user-images.githubusercontent.com/15486071/190010152-bacb722a-54cf-4550-b23e-b9eede733645.png)
 
 This is a port of coding train Apple II fractal tree for the Amstrad CPC
 
